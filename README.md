@@ -33,14 +33,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;• Developed Shopify-integrated website with promo logic<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Managed logistics, customer service, and digital marketing<br>
 
-<br>
-
-🛠️ <b>Tech Stack:</b><br>
-- <b>Frontend:</b> Angular, HTML, SCSS, TypeScript<br>
-- <b>Backend:</b> Java (Jakarta EE), Node.js<br>
-- <b>Testing:</b> TestComplete, Selenium, Postman, JUnit<br>
-- <b>DevOps:</b> Git, GitLab CI, WildFly<br>
-- <b>Database:</b> Microsoft SQL Server, Oracle DB<br>
 
 <br>
 
