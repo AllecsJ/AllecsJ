@@ -49,5 +49,5 @@ I run a snack empire by day and write beautiful code by night 🍫💻
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=allecsj&show_icons=true&theme=radical" />
 </p>
